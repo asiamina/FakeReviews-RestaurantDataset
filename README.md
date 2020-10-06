@@ -1,6 +1,6 @@
 # The FakeReviews-RestaurantDataset Repository
 # Restaurant Fake Reviews Dataset
-The Restaurant Dataset consists of 110 reviews in total of which 55 are fake and 55 are geniune reviews for three hypothetical indian restaurants.
+The Restaurant Dataset consists of 110 reviews in total of which 55 are fake and 55 are geniune reviews for three hypothetical indian restaurants. The dataset is also balanced in terms of negative and positive reviews. 
 
 # Meta Data about the Dataset
 
