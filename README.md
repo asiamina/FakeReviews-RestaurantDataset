@@ -1,4 +1,4 @@
-# FakeReviews-RestaurantData
+# FakeReviews-RestaurantDataset
 # Restaurant Fake Reviews Dataset
 The Restaurant Dataset consisting of XXX fake and geniune reviews for three hypothetical indian restaurants.
 
