@@ -19,7 +19,7 @@ The excel file contains 19 columns as follows:
 
 3. **Real**: This column shows if the review is fake (value=0) or real (value=1)
 
-4. **Reviewer**: The ID of the reviewer. If the value=0 it means the review is legitimate and real. Otherwise, if the value <> 0 shows the identify of the reviewer.
+4. **Reviewer**: The ID of the reviewer. If the value=0 it means the review is legitimate and real. If the value <> 0, the value shows the identify of the reviewer.
 
 5. **F1-AWL**: Average word length.
 
