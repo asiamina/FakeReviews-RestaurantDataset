@@ -66,4 +66,4 @@ Thanks to Pritish Ayer, Sagar Lamichhane, Omer Qureshi, and Pranaya Sharma for c
 
 # Acknowledgment:
 
-his research work is supported by National Science Foundation under Grant No: 1723765.
+This research work is supported by National Science Foundation under Grant No: 1723765.
