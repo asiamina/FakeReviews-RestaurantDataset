@@ -32,6 +32,9 @@ The excel file contains 19 columns as follows:
 
 9. **F5-NCL**: Number of clauses.
 
+
+Thanks to Pritish Ayer, Sagar Lamichhane, Omer Qureshi, and Pranaya Sharma for contributions to the Restaurant datasetcreation. This research work is supported by National Science Foundation under Grant No: 1723765.
+
 10. **F6-NWO**: Number of words.
 
 11. **F7-NVB**: Number of verbs.
@@ -52,4 +55,15 @@ The excel file contains 19 columns as follows:
 
 19. **F15-NTY**: Number of typos.
 
-These features are extracted for each review and added to the excel file for NLP-based analysis for detecting fake reviews.
+
+
+# Contributors to Data Generation:
+
+* Pritish Ayer
+* Sagar Lamichhane
+* Omer Qureshi
+* Pranaya Sharma
+
+# Acknowledgment:
+
+his research work is supported by National Science Foundation under Grant No: 1723765.
